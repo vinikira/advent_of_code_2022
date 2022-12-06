@@ -1,0 +1,9 @@
+* Advent of code 2022
+My solves in Elixir for the [[https://adventofcode.com/]] 2022.
+
+* How to run
+The following is an example on how to run the codes in this repository:
+
+#+begin_src sh
+  cat day01_input.txt | elixir day01.exs
+#+end_src
